@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Anu DAM",
+    "occupation":"Web Developer",
+    "description":" currently completing the full stack web development bootcamp in University of Adelaide and ",
+    "employer":"looking for an oppertunity",
+    "jobDescription":"web development field",
+    "image":"profile_pic.jpg",
+    "bio":"Skilled Business Analyst with over 6 years of experience in the banking sector by supporting over 60 countries globally. Sound knowledge in IBM AS400 system and database systems and SQL data extraction process. I have developedcompetencies & undertaken responsibilities in the areas of stakeholder management, team management, working acrossgeographically distributed teams, and ability to work under tight deadlines and conflicting priorities. I am highly motivated, detail oriented and capable of forming and maintaining positive and productive working relationships with a variety of stakeholders both autonomously and in a team environment.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "anuradha.dambaladeniya@gmail.com",
+    "phone": "0444517765",
+    "address":{
+      "street":"1-17 Euston Walk, Mawson Lakes",
+      "city":"South Australian",
+      "state":"SA",
+      "zip": "5095"
+    },
+    "website": "http://www.anud.com.au",
+    "resumedownload":"https://anu-dam.github.io/Professional-Materials/resume.pdf",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anu-dambaladeniya-0668a88a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackexchange.com/users/16887293/anu81",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/anu-dam",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University of Cardiff Metropolitan, Wales",
+        "degree":"Maters in Business Administration ",
+        "graduated":"Completed in January 2015",
+        "description":""
+      },
+      {
+        "school":"University of Middlesex, UK",
+        "degree":"Business Information Systems and Management",
+        "graduated":"Completed in Year 2012",
+        "description":""
+      },
+      {
+        "school":"University of Adelaide, South Australia",
+        "degree":"Coding Boot Camp",
+        "graduated":"Completing in April 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      { "id" : 1,
+        "company":"Hong Kong and Shanghai Banking Corporation",
+        "title": "Senior Business Analyst",
+        "years": "October 2015 - August 2019",
+        "description": "Providing pre-implementation system support for HSBC Saudi Arabia and actively involve with project team to archive the tasks. \n Involve in User Interface (UI) analysis and UAT with the business team to validate accuracy. Reviewing the user incident tickets and provide Level 1 related support through Rational Team Concert"
+      },
+      { "id" : 2,
+        "company":"Hong Kong and Shanghai Banking Corporation",
+        "title":"Business Analyst",
+        "years":"August 2013 - September 2015",
+        "description":"Enhancing the bank’s reputation as a reliable and efficient service provider – by ensuring that queries are handled with maximum accuracy and each customer request is processed efficiently in a manner that the customer’s satisfaction is guaranteed. \n Complying with Central Bank and Exchange Control regulations – By ensuring that all Central Bank regulations, Business Instruction Manuals and recommendations by operational risk reviews are strictly adhered to when processing Debit cards."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"JavaScript",
+        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"download.jpeg"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Express JS",
+        "description":"I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "image":"express.jpg"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Task Master PRO",
+        "category":"Task Assigning system for Department of Child Care, South Australia",
+        "image":"taskmaster.jpg",
+        "url":"https://taskmasterpro.herokuapp.com"
+      },
+      {
+        "title":"Ultimate Cook Book",
+        "category":"Receipi finder Application for international cuisines",
+        "image":"ultimatecookbook.jpg",
+        "url":"https://radeep07.github.io/TheUltimateCookbook/"
+      },
+      {
+        "title":"Employee Tracking System",
+        "category":"Command Line Application for Employee Tracking system in Node",
+        "image":"employeetrackingsystem.jpg",
+        "url":"https://github.com/anu-dam/Employee-Tracker"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"portfolio.jpg",
+        "url":"https://github.com/tbakerx/react-resume-template"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
